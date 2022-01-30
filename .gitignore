@@ -38,3 +38,7 @@ bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerGen.dll
 bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerUI.dll
 .vs/DotNetDapper/DesignTimeBuild/.dtbcache.v2
 .vs/DotNetDapper/v16/.suo
+/obj
+/bin/Debug
+/.vs/DotNetDapper
+*_log.txt
